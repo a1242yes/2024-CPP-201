@@ -19,8 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="call-by.cpp" />
-    <ClCompile Include="배열과 객체.cpp" />
+    <ClCompile Include="배열과 포인터와 함수.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
