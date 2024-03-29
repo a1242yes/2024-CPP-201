@@ -8,7 +8,7 @@ void call_by_value(int* a) {
 	*a = 10;
 }
 
-int main(void) {
+  int main(void) {
 	
 	int num = 3;
 
